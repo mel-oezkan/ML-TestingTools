@@ -4,7 +4,7 @@ The following reposity contians a collection of tools to test and validate machi
 
 ## Model Analysis
 
-### [Yellowbrick](https://www.scikit-yb.org/en/latest/)
+### Yellowbrick [Link](https://www.scikit-yb.org/en/latest/)
 Yellowbrick is a Python library that provides visualizations for model selection, evaluation, and validation. It includes tools for generating confusion matrices, learning curves, ROC curves, and other diagnostic plots. It can be used with various machine learning frameworks, such as scikit-learn and TensorFlow.
 
 Visualizers:
@@ -21,7 +21,29 @@ Visualizers:
   - Feature Importance
   - ...
 
+### Alibi [Link](https://github.com/SeldonIO/alibi)
+Alibi is a Python library for machine learning model inspection and validation. It provides functions for testing model fairness, robustness, and explainability. It also includes tools for generating adversarial examples and evaluating model sensitivity.
 
+### SHAP [Link](https://shap.readthedocs.io/en/latest/index.html)
+SHAP is a Python library that provides model interpretability and validation tools. It includes functions for computing feature importance, visualizing decision boundaries, and generating explanations for individual model predictions.
+
+### ($) ModelOp Center 
+ModelOp Center is a platform for managing and validating machine learning models in production. It includes functions for monitoring model performance, identifying model drift, and validating models against data distribution shifts.
+
+### IBM AI Fairness 360
+AI Fairness 360 is an open-source toolkit for detecting and mitigating bias in machine learning models. It includes functions for measuring bias, generating fairness metrics, and applying fairness interventions.
+
+### IBM Watson OpenScale
+Watson OpenScale is a platform for managing and monitoring machine learning models in production. It includes functions for detecting model drift, validating models against data distribution shifts, and monitoring model explainability.
+
+### IBM Adversarial Robustness Toolbox (ART): 
+ART is an open-source toolkit for testing the robustness of machine learning models against adversarial attacks. It includes functions for generating adversarial examples, measuring model robustness, and applying adversarial defenses.
+
+### Certifai: 
+Certifai is a platform for testing and certifying the safety of machine learning models in production. It includes functions for detecting bias, assessing fairness, and quantifying model safety against specific safety criteria.
+
+### Microsoft Counterfactual Fairness: 
+Counterfactual Fairness is an open-source toolkit for testing and certifying the fairness of machine learning models. It includes functions for generating counterfactual examples, assessing model fairness, and applying fairness interventions.
 
 <br>
 
